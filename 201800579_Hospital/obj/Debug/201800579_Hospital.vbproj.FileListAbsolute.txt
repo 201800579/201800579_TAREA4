@@ -1,0 +1,13 @@
+C:\Users\ferna\source\repos\201800579_Hospital\bin\Debug\201800579_Hospital.exe.config
+C:\Users\ferna\source\repos\201800579_Hospital\bin\Debug\201800579_Hospital.exe
+C:\Users\ferna\source\repos\201800579_Hospital\bin\Debug\201800579_Hospital.pdb
+C:\Users\ferna\source\repos\201800579_Hospital\bin\Debug\201800579_Hospital.xml
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\201800579_Hospital.vbproj.AssemblyReference.cache
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\201800579_Hospital.vbproj.SuggestedBindingRedirects.cache
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\_201800579_Hospital.Form1.resources
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\_201800579_Hospital.Resources.resources
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\201800579_Hospital.vbproj.GenerateResource.cache
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\201800579_Hospital.vbproj.CoreCompileInputs.cache
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\201800579_Hospital.exe
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\201800579_Hospital.xml
+C:\Users\ferna\source\repos\201800579_Hospital\obj\Debug\201800579_Hospital.pdb
